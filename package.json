@@ -1,6 +1,6 @@
 {
   "name": "redis-info-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "redis info command parser",
   "scripts": {
     "debug": "node --inspect-brk -r ts-node/register ./node_modules/jest/bin/jest --no-cache --runInBand --detectOpenHandles",
@@ -23,12 +23,12 @@
     "type": "git",
     "url": "git+https://github.com/imjuni/redis-info-parser.git"
   },
-  "main": "./dist/esm/index.cjs",
+  "main": "./dist/cjs/index.cjs",
   "module": "./dist/esm/index.mjs",
   "typings": "./dist/esm/typings/index.d.js",
   "exports": {
     ".": {
-      "require": "./dist/esm/index.cjs",
+      "require": "./dist/cjs/index.cjs",
       "import": "./dist/esm/index.mjs",
       "typings": "./dist/esm/typings/index.d.js"
     }
