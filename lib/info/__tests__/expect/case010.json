@@ -1,0 +1,58 @@
+{
+  "type": {
+    "calls": "3",
+    "usec": "6",
+    "usec_per_call": "2.00",
+    "rejected_calls": "0",
+    "failed_calls": "0"
+  },
+  "ping": {
+    "calls": "10",
+    "usec": "8",
+    "usec_per_call": "0.80",
+    "rejected_calls": "0",
+    "failed_calls": "0"
+  },
+  "ttl": {
+    "calls": "3",
+    "usec": "10",
+    "usec_per_call": "3.33",
+    "rejected_calls": "0",
+    "failed_calls": "0"
+  },
+  "select": {
+    "calls": "28",
+    "usec": "37",
+    "usec_per_call": "1.32",
+    "rejected_calls": "0",
+    "failed_calls": "1"
+  },
+  "info": {
+    "calls": "9",
+    "usec": "920",
+    "usec_per_call": "102.22",
+    "rejected_calls": "0",
+    "failed_calls": "0"
+  },
+  "get": {
+    "calls": "4",
+    "usec": "16",
+    "usec_per_call": "4.00",
+    "rejected_calls": "0",
+    "failed_calls": "0"
+  },
+  "set": {
+    "calls": "1",
+    "usec": "4",
+    "usec_per_call": "4.00",
+    "rejected_calls": "0",
+    "failed_calls": "0"
+  },
+  "scan": {
+    "calls": "2",
+    "usec": "16",
+    "usec_per_call": "8.00",
+    "rejected_calls": "0",
+    "failed_calls": "0"
+  }
+}

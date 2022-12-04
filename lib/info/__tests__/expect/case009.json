@@ -1,0 +1,92 @@
+{
+  "db0": {
+    "keys": 800,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": true
+  },
+  "db1": {
+    "keys": 1,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": true
+  },
+  "db2": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db3": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db4": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db5": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db6": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db7": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db8": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db9": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db10": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db11": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db12": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db13": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  },
+  "db14": {
+    "keys": 0,
+    "expires": 0,
+    "avg_ttl": 0,
+    "reserved": false
+  }
+}

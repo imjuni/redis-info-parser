@@ -1,0 +1,7 @@
+# Errorstats
+errorstat_BUSYGROUP:count=10
+errorstat_ERR:count=6307
+errorstat_EXECABORT:count=9
+errorstat_NOGROUP:count=5
+errorstat_NOPERM:count=4194
+errorstat_WRONGTYPE:count=1069

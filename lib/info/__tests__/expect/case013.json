@@ -1,0 +1,20 @@
+{
+  "BUSYGROUP": {
+    "count": "10"
+  },
+  "ERR": {
+    "count": "6307"
+  },
+  "EXECABORT": {
+    "count": "9"
+  },
+  "NOGROUP": {
+    "count": "5"
+  },
+  "NOPERM": {
+    "count": "4194"
+  },
+  "WRONGTYPE": {
+    "count": "1069"
+  }
+}

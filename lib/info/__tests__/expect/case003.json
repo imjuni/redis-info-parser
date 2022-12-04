@@ -1,0 +1,21 @@
+{
+  "used_memory_human": "1.27M",
+  "used_memory_rss_human": "13.50M",
+  "used_memory_peak_human": "1.32M",
+  "used_memory_peak_perc": "96.57%",
+  "used_memory_dataset_perc": "80.30%",
+  "total_system_memory_human": "24.98G",
+  "used_memory_lua_human": "31.00K",
+  "maxmemory_human": "0B",
+  "maxmemory_policy": "noeviction",
+  "allocator_frag_ratio": "1.26",
+  "allocator_rss_ratio": "3.19",
+  "allocator_rss_bytes": "4583424",
+  "rss_overhead_ratio": "2.12",
+  "mem_fragmentation_ratio": "10.80",
+  "mem_allocator": "jemalloc-5.2.1",
+  "active_defrag_running": "0",
+  "lazyfree_pending_objects": "0",
+  "used_memory_vm_total_human": "63.00K",
+  "used_memory_scripts_human": "184B"
+}

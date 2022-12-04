@@ -1,0 +1,21 @@
+{
+  "redis_version": "7.0.4",
+  "redis_git_sha1": "00000000",
+  "redis_git_dirty": "0",
+  "redis_build_id": "317e1577632eb9c5",
+  "redis_mode": "standalone",
+  "os": "Linux 5.10.16.3-microsoft-standard-WSL2 x86_64",
+  "arch_bits": 64,
+  "multiplexing_api": "epoll",
+  "atomicvar_api": "c11-builtin",
+  "gcc_version": "10.2.1",
+  "process_id": "1",
+  "run_id": "69206c07a2428189ebe04d021b556122843ecfa1",
+  "tcp_port": 6379,
+  "uptime_in_seconds": "869",
+  "uptime_in_days": "0",
+  "hz": "10",
+  "lru_clock": "2136964",
+  "executable": "/data/redis-server",
+  "config_file": ""
+}

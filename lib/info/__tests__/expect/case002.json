@@ -1,0 +1,10 @@
+{
+  "connected_clients": 6,
+  "blocked_clients": "0",
+  "cluster_connections": 0,
+  "maxclients": 10000,
+  "client_recent_max_input_buffer": 20480,
+  "client_recent_max_output_buffer": 0,
+  "tracking_clients": 0,
+  "clients_in_timeout_table": 0
+}

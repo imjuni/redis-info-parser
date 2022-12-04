@@ -1,0 +1,13 @@
+{
+  "role": "slave",
+  "master_host": "http://localhost",
+  "master_port": "6379",
+  "master_last_io_seconds_ago": "1234444",
+  "slave_repl_offset": "1234",
+  "slave_priority": "1",
+  "slave_read_only": "1",
+  "connected_slaves": "3",
+  "min_slaves_good_slaves": "asdf",
+  "master_sync_in_progress": "0",
+  "master_link_status": "down"
+}
