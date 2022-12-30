@@ -15,14 +15,11 @@
     },
     "require": ["tsconfig-paths/register"]
   },
-  "compileOnSave": false,
-  "buildOnSave": false,
   "compilerOptions": {
     /* Basic Options */
     "declaration": true /* Generates corresponding '.d.ts' file. */,
     "lib": ["es2021", "DOM"],
     "declarationMap": true /* Generates corresponding '.d.ts' file. */,
-    "declarationDir": "dist/typings",
     "sourceMap": true /* Generates corresponding '.map' file. */,
     "outDir": "./dist" /* Redirect output structure to the directory. */,
     "removeComments": true /* Do not emit comments to output. */,

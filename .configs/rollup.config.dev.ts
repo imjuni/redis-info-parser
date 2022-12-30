@@ -1,8 +1,11 @@
 import { nodeResolve } from '@rollup/plugin-node-resolve';
+import fs from 'fs';
+import { parse } from 'jsonc-parser';
 import readPackage from 'read-pkg';
 import ts from 'rollup-plugin-ts';
 
 const pkg = readPackage.sync();
+const tsconfig = parse(fs.readFileSync('tsconfig.json').toString());
 
 export default [
   {
@@ -23,7 +26,7 @@ export default [
           return pkg?.dependencies?.[module] == null && pkg?.devDependencies?.[module] == null;
         },
       }),
-      ts({ tsconfig: 'tsconfig.json' }),
+      ts(tsconfig.compilerOptions),
     ],
   },
 ];
